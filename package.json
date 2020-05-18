@@ -20,5 +20,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avillasilva/blogapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avillasilva/blogapp/issues"
+  },
+  "homepage": "https://github.com/avillasilva/blogapp#readme",
   "description": ""
 }
